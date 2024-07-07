@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425703409102",
+    "project_id": "mentalmantra-149b1",
+    "storage_bucket": "mentalmantra-149b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425703409102:android:1fa04342193c9087c4d79f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMSYM2lWPQaEWaFiAot014CirfSpUXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425703409102:android:854c20feb702c9bac4d79f",
+        "android_client_info": {
+          "package_name": "com.example.mentalmandra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMSYM2lWPQaEWaFiAot014CirfSpUXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
